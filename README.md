@@ -28,4 +28,6 @@ This repository is a living project, and there are many avenues for future analy
 
 Contributions and suggestions for further analysis are welcome!
 ## About
-Learning data analysis by working with real world pharmacovigigilance and epidemiology data
+## About
+
+This repository serves as a practical exploration into the analysis of data from the FDA Adverse Event Reporting System (FAERS). It contains code and documentation demonstrating various data manipulation, analysis, and visualization techniques applied to real-world pharmacovigilance data. The project utilizes Python with libraries such as pandas for data handling and processing, and matplotlib/seaborn for visualization. It is intended as a portfolio piece and a resource for anyone interested in working with drug safety data.
